@@ -1,0 +1,2156 @@
+
+Kernel: Linear, Cost: 0.001000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+78.39	21.61
+27.41	72.59
+
+Matriz de Confusão (Teste - %):
+73.01	26.99
+37.72	62.28
+
+==================================================
+
+Kernel: Linear, Cost: 0.001000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+78.39	21.61
+27.41	72.59
+
+Matriz de Confusão (Teste - %):
+73.01	26.99
+37.72	62.28
+
+==================================================
+
+Kernel: Linear, Cost: 0.001000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+78.39	21.61
+27.41	72.59
+
+Matriz de Confusão (Teste - %):
+73.01	26.99
+37.72	62.28
+
+==================================================
+
+Kernel: Linear, Cost: 0.001000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+78.39	21.61
+27.41	72.59
+
+Matriz de Confusão (Teste - %):
+73.01	26.99
+37.72	62.28
+
+==================================================
+
+Kernel: Linear, Cost: 0.001000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+78.39	21.61
+27.41	72.59
+
+Matriz de Confusão (Teste - %):
+73.01	26.99
+37.72	62.28
+
+==================================================
+
+Kernel: Linear, Cost: 0.001000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+78.39	21.61
+27.41	72.59
+
+Matriz de Confusão (Teste - %):
+73.01	26.99
+37.72	62.28
+
+==================================================
+
+Kernel: Linear, Cost: 0.001000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+78.39	21.61
+27.41	72.59
+
+Matriz de Confusão (Teste - %):
+73.01	26.99
+37.72	62.28
+
+==================================================
+
+Kernel: Linear, Cost: 0.010000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+52.97	47.03
+39.52	60.48
+
+Matriz de Confusão (Teste - %):
+46.01	53.99
+41.92	58.08
+
+==================================================
+
+Kernel: Linear, Cost: 0.010000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+52.97	47.03
+39.52	60.48
+
+Matriz de Confusão (Teste - %):
+46.01	53.99
+41.92	58.08
+
+==================================================
+
+Kernel: Linear, Cost: 0.010000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+52.97	47.03
+39.52	60.48
+
+Matriz de Confusão (Teste - %):
+46.01	53.99
+41.92	58.08
+
+==================================================
+
+Kernel: Linear, Cost: 0.010000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+52.97	47.03
+39.52	60.48
+
+Matriz de Confusão (Teste - %):
+46.01	53.99
+41.92	58.08
+
+==================================================
+
+Kernel: Linear, Cost: 0.010000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+52.97	47.03
+39.52	60.48
+
+Matriz de Confusão (Teste - %):
+46.01	53.99
+41.92	58.08
+
+==================================================
+
+Kernel: Linear, Cost: 0.010000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+52.97	47.03
+39.52	60.48
+
+Matriz de Confusão (Teste - %):
+46.01	53.99
+41.92	58.08
+
+==================================================
+
+Kernel: Linear, Cost: 0.010000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+52.97	47.03
+39.52	60.48
+
+Matriz de Confusão (Teste - %):
+46.01	53.99
+41.92	58.08
+
+==================================================
+
+Kernel: Linear, Cost: 0.100000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 0.100000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 0.100000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 0.100000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 0.100000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 0.100000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 0.100000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 10.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 10.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 10.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 10.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 10.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 10.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 10.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 100.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 100.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 100.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 100.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 100.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 100.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 100.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1000.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1000.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1000.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1000.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1000.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1000.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Linear, Cost: 1000.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+52.08	47.92
+34.46	65.54
+
+Matriz de Confusão (Teste - %):
+47.24	52.76
+28.14	71.86
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.001000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+83.30	16.70
+12.71	87.29
+
+Matriz de Confusão (Teste - %):
+62.58	37.42
+36.53	63.47
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.001000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+83.44	16.56
+12.31	87.69
+
+Matriz de Confusão (Teste - %):
+60.74	39.26
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.001000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+93.39	6.61
+11.18	88.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.001000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+89.16	10.84
+12.97	87.03
+
+Matriz de Confusão (Teste - %):
+66.87	33.13
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.001000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+79.55	20.45
+12.91	87.09
+
+Matriz de Confusão (Teste - %):
+61.35	38.65
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.001000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+87.39	12.61
+12.18	87.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+37.72	62.28
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.001000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+72.53	27.47
+26.61	73.39
+
+Matriz de Confusão (Teste - %):
+67.48	32.52
+32.34	67.66
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.010000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+83.30	16.70
+12.71	87.29
+
+Matriz de Confusão (Teste - %):
+62.58	37.42
+36.53	63.47
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.010000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+83.44	16.56
+12.31	87.69
+
+Matriz de Confusão (Teste - %):
+60.74	39.26
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.010000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+93.39	6.61
+11.18	88.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.010000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+89.16	10.84
+12.97	87.03
+
+Matriz de Confusão (Teste - %):
+66.87	33.13
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.010000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+79.55	20.45
+12.91	87.09
+
+Matriz de Confusão (Teste - %):
+61.35	38.65
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.010000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+87.39	12.61
+12.18	87.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+37.72	62.28
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.010000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+72.53	27.47
+26.61	73.39
+
+Matriz de Confusão (Teste - %):
+67.48	32.52
+32.34	67.66
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.100000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+83.30	16.70
+12.71	87.29
+
+Matriz de Confusão (Teste - %):
+62.58	37.42
+36.53	63.47
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.100000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+83.44	16.56
+12.31	87.69
+
+Matriz de Confusão (Teste - %):
+60.74	39.26
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.100000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+93.39	6.61
+11.18	88.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.100000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+89.16	10.84
+12.97	87.03
+
+Matriz de Confusão (Teste - %):
+66.87	33.13
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.100000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+79.55	20.45
+12.91	87.09
+
+Matriz de Confusão (Teste - %):
+61.35	38.65
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.100000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+87.39	12.61
+12.18	87.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+37.72	62.28
+
+==================================================
+
+Kernel: Polynomial, Cost: 0.100000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+72.53	27.47
+26.61	73.39
+
+Matriz de Confusão (Teste - %):
+67.48	32.52
+32.34	67.66
+
+==================================================
+
+Kernel: Polynomial, Cost: 1.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+83.30	16.70
+12.71	87.29
+
+Matriz de Confusão (Teste - %):
+62.58	37.42
+36.53	63.47
+
+==================================================
+
+Kernel: Polynomial, Cost: 1.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+83.44	16.56
+12.31	87.69
+
+Matriz de Confusão (Teste - %):
+60.74	39.26
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 1.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+93.39	6.61
+11.18	88.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 1.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+89.16	10.84
+12.97	87.03
+
+Matriz de Confusão (Teste - %):
+66.87	33.13
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 1.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+79.55	20.45
+12.91	87.09
+
+Matriz de Confusão (Teste - %):
+61.35	38.65
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 1.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+87.39	12.61
+12.18	87.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+37.72	62.28
+
+==================================================
+
+Kernel: Polynomial, Cost: 1.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+72.53	27.47
+26.61	73.39
+
+Matriz de Confusão (Teste - %):
+67.48	32.52
+32.34	67.66
+
+==================================================
+
+Kernel: Polynomial, Cost: 10.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+83.30	16.70
+12.71	87.29
+
+Matriz de Confusão (Teste - %):
+62.58	37.42
+36.53	63.47
+
+==================================================
+
+Kernel: Polynomial, Cost: 10.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+83.44	16.56
+12.31	87.69
+
+Matriz de Confusão (Teste - %):
+60.74	39.26
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 10.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+93.39	6.61
+11.18	88.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 10.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+89.16	10.84
+12.97	87.03
+
+Matriz de Confusão (Teste - %):
+66.87	33.13
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 10.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+79.55	20.45
+12.91	87.09
+
+Matriz de Confusão (Teste - %):
+61.35	38.65
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 10.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+87.39	12.61
+12.18	87.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+37.72	62.28
+
+==================================================
+
+Kernel: Polynomial, Cost: 10.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+72.53	27.47
+26.61	73.39
+
+Matriz de Confusão (Teste - %):
+67.48	32.52
+32.34	67.66
+
+==================================================
+
+Kernel: Polynomial, Cost: 100.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+83.30	16.70
+12.71	87.29
+
+Matriz de Confusão (Teste - %):
+62.58	37.42
+36.53	63.47
+
+==================================================
+
+Kernel: Polynomial, Cost: 100.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+83.44	16.56
+12.31	87.69
+
+Matriz de Confusão (Teste - %):
+60.74	39.26
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 100.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+93.39	6.61
+11.18	88.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 100.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+89.16	10.84
+12.97	87.03
+
+Matriz de Confusão (Teste - %):
+66.87	33.13
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 100.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+79.55	20.45
+12.91	87.09
+
+Matriz de Confusão (Teste - %):
+61.35	38.65
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 100.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+87.39	12.61
+12.18	87.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+37.72	62.28
+
+==================================================
+
+Kernel: Polynomial, Cost: 100.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+72.53	27.47
+26.61	73.39
+
+Matriz de Confusão (Teste - %):
+67.48	32.52
+32.34	67.66
+
+==================================================
+
+Kernel: Polynomial, Cost: 1000.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+83.30	16.70
+12.71	87.29
+
+Matriz de Confusão (Teste - %):
+62.58	37.42
+36.53	63.47
+
+==================================================
+
+Kernel: Polynomial, Cost: 1000.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+83.44	16.56
+12.31	87.69
+
+Matriz de Confusão (Teste - %):
+60.74	39.26
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 1000.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+93.39	6.61
+11.18	88.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 1000.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+89.16	10.84
+12.97	87.03
+
+Matriz de Confusão (Teste - %):
+66.87	33.13
+38.92	61.08
+
+==================================================
+
+Kernel: Polynomial, Cost: 1000.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+79.55	20.45
+12.91	87.09
+
+Matriz de Confusão (Teste - %):
+61.35	38.65
+38.32	61.68
+
+==================================================
+
+Kernel: Polynomial, Cost: 1000.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+87.39	12.61
+12.18	87.82
+
+Matriz de Confusão (Teste - %):
+66.26	33.74
+37.72	62.28
+
+==================================================
+
+Kernel: Polynomial, Cost: 1000.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+72.53	27.47
+26.61	73.39
+
+Matriz de Confusão (Teste - %):
+67.48	32.52
+32.34	67.66
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.001000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.001000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.001000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.001000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.001000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.001000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.001000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.010000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.010000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.010000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.010000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.010000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.010000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.010000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.100000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.100000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.100000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.100000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.100000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.100000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 0.100000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.82	90.18
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 10.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+10.43	89.57
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 10.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 10.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 10.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 10.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 10.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 10.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 100.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+10.43	89.57
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 100.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 100.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 100.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 100.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 100.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 100.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1000.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+10.43	89.57
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1000.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1000.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1000.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1000.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1000.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Radial Basis Function, Cost: 1000.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+100.00	0.00
+0.00	100.00
+
+Matriz de Confusão (Teste - %):
+9.20	90.80
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.001000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.001000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.001000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.001000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.001000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.001000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.001000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.010000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.010000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.010000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.010000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.010000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.010000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.010000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+10.22	89.78
+9.78	90.22
+
+Matriz de Confusão (Teste - %):
+7.98	92.02
+11.98	88.02
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.100000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+43.56	56.44
+78.24	21.76
+
+Matriz de Confusão (Teste - %):
+42.94	57.06
+77.84	22.16
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.100000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+43.56	56.44
+77.91	22.09
+
+Matriz de Confusão (Teste - %):
+42.94	57.06
+77.25	22.75
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.100000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+43.56	56.44
+77.91	22.09
+
+Matriz de Confusão (Teste - %):
+42.94	57.06
+77.25	22.75
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.100000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+43.56	56.44
+77.91	22.09
+
+Matriz de Confusão (Teste - %):
+42.94	57.06
+77.25	22.75
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.100000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+43.56	56.44
+77.91	22.09
+
+Matriz de Confusão (Teste - %):
+42.94	57.06
+77.25	22.75
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.100000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+43.56	56.44
+77.91	22.09
+
+Matriz de Confusão (Teste - %):
+42.94	57.06
+77.25	22.75
+
+==================================================
+
+Kernel: Sigmoid, Cost: 0.100000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+43.56	56.44
+77.91	22.09
+
+Matriz de Confusão (Teste - %):
+42.94	57.06
+77.25	22.75
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 10.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 10.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 10.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 10.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 10.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 10.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 10.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 100.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 100.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 100.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 100.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 100.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 100.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 100.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1000.000000, Gamma: 0.001000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1000.000000, Gamma: 0.010000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1000.000000, Gamma: 0.100000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1000.000000, Gamma: 1.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1000.000000, Gamma: 10.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1000.000000, Gamma: 100.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
+
+Kernel: Sigmoid, Cost: 1000.000000, Gamma: 1000.000000
+Matriz de Confusão (Treino - %):
+27.95	72.05
+69.93	30.07
+
+Matriz de Confusão (Teste - %):
+28.83	71.17
+68.86	31.14
+
+==================================================
